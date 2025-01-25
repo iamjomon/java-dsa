@@ -29,7 +29,7 @@ Below is the list of topics covered in this repository (Links will be updated as
 (to be updated as new topics are added)
 
 ## Repository Structure
-- Folders are organized by topic (e.g., `Arrays`, `Trees`, `Sorting`).
+- Folders are organized by topic (e.g., `Arrays`, `Strings`).
 - File Naming: Files are named to match the topic name for easy identification.
 - Includes comments explaining the logic behind each algorithm or data structure.
 
