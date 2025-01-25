@@ -10,7 +10,8 @@ This repository is a comprehensive collection of important **Data Structures and
 
 This section focuses on the core DSA topics with practical examples and problem-solving techniques.
 
-Topics covered: (Links will be updated as files are added to the repository.) 
+## Index
+Below is the list of topics covered in this repository (Links will be updated as files are added to the repository):
 - <a href="">Arrays & 2D Arrays</a>
 - <a href="">Sorting Algorithms</a>
 - <a href="">Strings</a>
@@ -24,6 +25,8 @@ Topics covered: (Links will be updated as files are added to the repository.)
 - <a href="">Stacks & Queues</a>
 - <a href="">Binary Trees</a>
 - <a href="">Binary Search Trees</a>
+
+(to be updated as new topics are added)
 
 ## Repository Structure
 - Folders are organized by topic (e.g., `Arrays`, `Trees`, `Sorting`).
