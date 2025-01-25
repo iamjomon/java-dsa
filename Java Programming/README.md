@@ -9,7 +9,7 @@ Java is a versatile, high-level programming language known for its platform inde
 - Indexed topics for seamless navigation.
 
 ## Index
-Below is the list of topics covered in this repository (to be updated as new topics are added):
+Below is the list of topics covered in this repository (Links will be updated as files are added to the repository):
 - <a href="https://github.com/Jomon-J/Java-DSA/tree/main/Java%20Programming/Flowcharts%20%26%20Pseudocode">Flowcharts & Pseudocode</a>
 - <a href="">Variables & Data Types</a>
 - <a href="">Operators</a>
@@ -18,7 +18,7 @@ Below is the list of topics covered in this repository (to be updated as new top
 - <a href="">Patterns</a>
 - <a href="">Functions & Scope</a>
 
-(Add links to each topic file in the repository.)
+(to be updated as new topics are added)
 
 ## Java Boilerplate Code
 Below is the boilerplate code used in the examples:
