@@ -1,6 +1,6 @@
 # Java Data Stractures and Algorithm
 
-Welcome to my Java and Data Structures & Algorithms (DSA) progress repository! This repository serves as a collection of my notes, code, and problem-solving progress to aid in revision and preparation for interviews.
+Welcome to my **Java** and **Data Structures & Algorithms (DSA)** progress repository! This repository serves as a collection of my notes, code, and problem-solving progress to aid in revision and preparation for interviews.
 
 ## Repository Overview
 
