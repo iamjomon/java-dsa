@@ -4,11 +4,11 @@ Welcome to my **Java** and **Data Structures & Algorithms (DSA)** progress repos
 
 ## Repository Overview
 
-### 1. <a href="./Java%20Programming">Java Programming</a>
+### 1. <a href="https://github.com/Jomon-J/Java-DSA/tree/main/Java%20Programming">Java Programming</a>
 This section contains the fundamentals of Java programming to build a strong foundation.
 
 Topics covered:
-- <a href="./Java%20Programming/Flowcharts%20%26%20Pseudocode">Flowcharts & Pseudocode</a>
+- <a href="https://github.com/Jomon-J/Java-DSA/tree/main/Java%20Programming/Flowcharts%20%26%20Pseudocode">Flowcharts & Pseudocode</a>
 - <a href="">Variables & Data Types</a>
 - <a href="">Operators</a>
 - <a href="">Conditional Statements</a>
@@ -16,7 +16,7 @@ Topics covered:
 - <a href="">Patterns</a>
 - <a href="">Functions & Scope</a>
 
-### 2. <a href="./Advanced%20DSA">Data Structures & Algorithms</a>
+### 2. <a href="https://github.com/Jomon-J/Java-DSA/tree/main/Data%20Structures%20%26%20Algorithms">Data Structures & Algorithms</a>
 This section focuses on the core DSA topics with practical examples and problem-solving techniques.
 
 Topics covered:
@@ -34,7 +34,7 @@ Topics covered:
 - <a href="">Binary Trees</a>
 - <a href="">Binary Search Trees</a>
 
-### 3. <a href="./Advanced%20DSA">Advanced DSA
+### 3. <a href="https://github.com/Jomon-J/Java-DSA/tree/main/Advanced%20DSA">Advanced DSA
 This section dives into advanced topics for competitive programming and technical interviews.
 
 Topics covered:
